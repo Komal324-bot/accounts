@@ -25,7 +25,7 @@ int main()
     do
     {
 
-        printf("\nBanking System Menu :\n");
+        printf("Banking System Menu :\n");
         printf("Press 1 to display all records.\n");
         printf("Press 2 to search a record.\n");
         printf("Press 3 to deposit amount.\n");
